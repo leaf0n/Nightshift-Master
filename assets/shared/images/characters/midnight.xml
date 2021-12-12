@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="midnight.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mid Sing Note DOWN0000" x="0" y="0" width="507" height="683" frameX="-13" frameY="-3" frameWidth="521" frameHeight="686"/>
+	<SubTexture name="Mid Sing Note DOWN0001" x="0" y="0" width="507" height="683" frameX="-13" frameY="-3" frameWidth="521" frameHeight="686"/>
+	<SubTexture name="Mid Sing Note DOWN0002" x="507" y="0" width="521" height="686"/>
+	<SubTexture name="Mid Sing Note DOWN0003" x="507" y="0" width="521" height="686"/>
+	<SubTexture name="Mid Sing Note DOWN0004" x="507" y="0" width="521" height="686"/>
+	<SubTexture name="Mid Sing Note DOWN0005" x="507" y="0" width="521" height="686"/>
+	<SubTexture name="Mid Sing Note DOWN0006" x="507" y="0" width="521" height="686"/>
+	<SubTexture name="Mid Sing Note DOWN0007" x="507" y="0" width="521" height="686"/>
+	<SubTexture name="Mid Sing Note DOWN0008" x="507" y="0" width="521" height="686"/>
+	<SubTexture name="Mid Sing Note DOWN0009" x="507" y="0" width="521" height="686"/>
+	<SubTexture name="Mid Sing Note LEFT0000" x="1028" y="0" width="471" height="668" frameX="-7" frameY="-2" frameWidth="478" frameHeight="670"/>
+	<SubTexture name="Mid Sing Note LEFT0001" x="1028" y="0" width="471" height="668" frameX="-7" frameY="-2" frameWidth="478" frameHeight="670"/>
+	<SubTexture name="Mid Sing Note LEFT0002" x="1499" y="0" width="478" height="670"/>
+	<SubTexture name="Mid Sing Note LEFT0003" x="1499" y="0" width="478" height="670"/>
+	<SubTexture name="Mid Sing Note LEFT0004" x="1499" y="0" width="478" height="670"/>
+	<SubTexture name="Mid Sing Note LEFT0005" x="1499" y="0" width="478" height="670"/>
+	<SubTexture name="Mid Sing Note LEFT0006" x="1499" y="0" width="478" height="670"/>
+	<SubTexture name="Mid Sing Note LEFT0007" x="1499" y="0" width="478" height="670"/>
+	<SubTexture name="Mid Sing Note LEFT0008" x="1499" y="0" width="478" height="670"/>
+	<SubTexture name="Mid Sing Note LEFT0009" x="1499" y="0" width="478" height="670"/>
+	<SubTexture name="Mid Sing Note RIGHT0000" x="1977" y="0" width="411" height="686" frameX="-3" frameY="-6" frameWidth="414" frameHeight="692"/>
+	<SubTexture name="Mid Sing Note RIGHT0001" x="1977" y="0" width="411" height="686" frameX="-3" frameY="-6" frameWidth="414" frameHeight="692"/>
+	<SubTexture name="Mid Sing Note RIGHT0002" x="2388" y="0" width="395" height="692" frameX="0" frameY="0" frameWidth="414" frameHeight="692"/>
+	<SubTexture name="Mid Sing Note RIGHT0003" x="2388" y="0" width="395" height="692" frameX="0" frameY="0" frameWidth="414" frameHeight="692"/>
+	<SubTexture name="Mid Sing Note RIGHT0004" x="2388" y="0" width="395" height="692" frameX="0" frameY="0" frameWidth="414" frameHeight="692"/>
+	<SubTexture name="Mid Sing Note RIGHT0005" x="2388" y="0" width="395" height="692" frameX="0" frameY="0" frameWidth="414" frameHeight="692"/>
+	<SubTexture name="Mid Sing Note RIGHT0006" x="2388" y="0" width="395" height="692" frameX="0" frameY="0" frameWidth="414" frameHeight="692"/>
+	<SubTexture name="Mid Sing Note RIGHT0007" x="2388" y="0" width="395" height="692" frameX="0" frameY="0" frameWidth="414" frameHeight="692"/>
+	<SubTexture name="Mid Sing Note RIGHT0008" x="2388" y="0" width="395" height="692" frameX="0" frameY="0" frameWidth="414" frameHeight="692"/>
+	<SubTexture name="Mid Sing Note RIGHT0009" x="2388" y="0" width="395" height="692" frameX="0" frameY="0" frameWidth="414" frameHeight="692"/>
+	<SubTexture name="Mid Sing Note UP0000" x="2783" y="0" width="371" height="705" frameX="-8" frameY="0" frameWidth="379" frameHeight="705"/>
+	<SubTexture name="Mid Sing Note UP0001" x="2783" y="0" width="371" height="705" frameX="-8" frameY="0" frameWidth="379" frameHeight="705"/>
+	<SubTexture name="Mid Sing Note UP0002" x="3154" y="0" width="372" height="697" frameX="0" frameY="-8" frameWidth="379" frameHeight="705"/>
+	<SubTexture name="Mid Sing Note UP0003" x="3154" y="0" width="372" height="697" frameX="0" frameY="-8" frameWidth="379" frameHeight="705"/>
+	<SubTexture name="Mid Sing Note UP0004" x="3154" y="0" width="372" height="697" frameX="0" frameY="-8" frameWidth="379" frameHeight="705"/>
+	<SubTexture name="Mid Sing Note UP0005" x="3154" y="0" width="372" height="697" frameX="0" frameY="-8" frameWidth="379" frameHeight="705"/>
+	<SubTexture name="Mid Sing Note UP0006" x="3154" y="0" width="372" height="697" frameX="0" frameY="-8" frameWidth="379" frameHeight="705"/>
+	<SubTexture name="Mid Sing Note UP0007" x="3154" y="0" width="372" height="697" frameX="0" frameY="-8" frameWidth="379" frameHeight="705"/>
+	<SubTexture name="Mid Sing Note UP0008" x="3154" y="0" width="372" height="697" frameX="0" frameY="-8" frameWidth="379" frameHeight="705"/>
+	<SubTexture name="Mid Sing Note UP0009" x="3154" y="0" width="372" height="697" frameX="0" frameY="-8" frameWidth="379" frameHeight="705"/>
+	<SubTexture name="Mid idle dance0000" x="3526" y="0" width="399" height="686" frameX="-11" frameY="0" frameWidth="414" frameHeight="686"/>
+	<SubTexture name="Mid idle dance0001" x="3526" y="0" width="399" height="686" frameX="-11" frameY="0" frameWidth="414" frameHeight="686"/>
+	<SubTexture name="Mid idle dance0002" x="0" y="705" width="399" height="675" frameX="-15" frameY="-11" frameWidth="414" frameHeight="686"/>
+	<SubTexture name="Mid idle dance0003" x="0" y="705" width="399" height="675" frameX="-15" frameY="-11" frameWidth="414" frameHeight="686"/>
+	<SubTexture name="Mid idle dance0004" x="399" y="705" width="401" height="670" frameX="-12" frameY="-16" frameWidth="414" frameHeight="686"/>
+	<SubTexture name="Mid idle dance0005" x="399" y="705" width="401" height="670" frameX="-12" frameY="-16" frameWidth="414" frameHeight="686"/>
+	<SubTexture name="Mid idle dance0006" x="800" y="705" width="406" height="673" frameX="-5" frameY="-13" frameWidth="414" frameHeight="686"/>
+	<SubTexture name="Mid idle dance0007" x="800" y="705" width="406" height="673" frameX="-5" frameY="-13" frameWidth="414" frameHeight="686"/>
+	<SubTexture name="Mid idle dance0008" x="1206" y="705" width="411" height="684" frameX="0" frameY="-2" frameWidth="414" frameHeight="686"/>
+	<SubTexture name="Mid idle dance0009" x="1206" y="705" width="411" height="684" frameX="0" frameY="-2" frameWidth="414" frameHeight="686"/>
+	<SubTexture name="Mid idle dance0010" x="3526" y="0" width="399" height="686" frameX="-11" frameY="0" frameWidth="414" frameHeight="686"/>
+	<SubTexture name="Mid idle dance0011" x="3526" y="0" width="399" height="686" frameX="-11" frameY="0" frameWidth="414" frameHeight="686"/>
+	<SubTexture name="Mid idle dance0012" x="3526" y="0" width="399" height="686" frameX="-11" frameY="0" frameWidth="414" frameHeight="686"/>
+</TextureAtlas>

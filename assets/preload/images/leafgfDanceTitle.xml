@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="leafgfDanceTitle.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="leafgfDance 0000" x="0" y="0" width="699" height="642" frameX="-2" frameY="-15" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0001" x="699" y="0" width="703" height="642" frameX="0" frameY="-15" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0002" x="1402" y="0" width="703" height="642" frameX="0" frameY="-15" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0003" x="2105" y="0" width="699" height="642" frameX="-2" frameY="-15" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0004" x="2804" y="0" width="699" height="644" frameX="-2" frameY="-13" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0005" x="0" y="644" width="699" height="644" frameX="-2" frameY="-13" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0006" x="699" y="644" width="699" height="648" frameX="-2" frameY="-9" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0007" x="1398" y="644" width="699" height="656" frameX="-2" frameY="-1" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0008" x="1398" y="644" width="699" height="656" frameX="-2" frameY="-1" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0009" x="1398" y="644" width="699" height="656" frameX="-2" frameY="-1" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0010" x="2097" y="644" width="699" height="657" frameX="-2" frameY="0" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0011" x="2097" y="644" width="699" height="657" frameX="-2" frameY="0" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0012" x="2097" y="644" width="699" height="657" frameX="-2" frameY="0" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0013" x="2796" y="644" width="699" height="656" frameX="-2" frameY="-1" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0014" x="2796" y="644" width="699" height="656" frameX="-2" frameY="-1" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0015" x="0" y="1301" width="699" height="638" frameX="-2" frameY="-19" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0016" x="699" y="1301" width="703" height="638" frameX="0" frameY="-19" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0017" x="1402" y="1301" width="703" height="636" frameX="0" frameY="-21" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0018" x="2105" y="1301" width="699" height="636" frameX="-2" frameY="-21" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0019" x="2804" y="1301" width="699" height="640" frameX="-2" frameY="-17" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0020" x="0" y="1941" width="699" height="640" frameX="-2" frameY="-17" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0021" x="699" y="1941" width="699" height="646" frameX="-2" frameY="-11" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0022" x="1398" y="1941" width="699" height="656" frameX="-2" frameY="-1" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0023" x="1398" y="1941" width="699" height="656" frameX="-2" frameY="-1" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0024" x="1398" y="1941" width="699" height="656" frameX="-2" frameY="-1" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0025" x="2097" y="1941" width="699" height="657" frameX="-2" frameY="0" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0026" x="2097" y="1941" width="699" height="657" frameX="-2" frameY="0" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0027" x="2097" y="1941" width="699" height="657" frameX="-2" frameY="0" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0028" x="2796" y="1941" width="699" height="657" frameX="-2" frameY="0" frameWidth="703" frameHeight="657"/>
+	<SubTexture name="leafgfDance 0029" x="2796" y="1941" width="699" height="657" frameX="-2" frameY="0" frameWidth="703" frameHeight="657"/>
+</TextureAtlas>

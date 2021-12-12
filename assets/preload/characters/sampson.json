@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sampsonright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sampsonidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sampsonleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sampsondown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sampsonup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sampson",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sampson",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		86
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

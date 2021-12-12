@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mid_dialogue.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="midnight0000" x="0" y="0" width="164" height="267" frameX="0" frameY="-182" frameWidth="164" frameHeight="449"/>
+	<SubTexture name="midnight0001" x="164" y="0" width="164" height="344" frameX="0" frameY="-104" frameWidth="164" frameHeight="449"/>
+	<SubTexture name="midnight0002" x="328" y="0" width="164" height="417" frameX="0" frameY="-32" frameWidth="164" frameHeight="449"/>
+	<SubTexture name="midnight0003" x="492" y="0" width="164" height="449"/>
+</TextureAtlas>
